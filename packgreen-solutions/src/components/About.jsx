@@ -1,5 +1,5 @@
 import { ABOUT_CONTENT } from "../assets";
-import { Reveal } from "./Reveal"; // Using our high-perf Reveal
+import { Reveal } from "./Reveal";
 
 const About = () => {
   return (
